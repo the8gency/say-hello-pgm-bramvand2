@@ -54,4 +54,4 @@ Well that's me in a nutshell. If you want to know more keep on scrolling!
 
 ___
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-bramvand2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-bramvand2&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
